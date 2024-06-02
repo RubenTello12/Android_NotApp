@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App_Final</string>
+
+    <string name="txtAgregarNota">Agregar Nota</string>
+    <string name="etTitulo">Titulo de la nota</string>
+    <string name="etDescripcion">Descripción de la nota</string>
+    <string name="txtNotas">Notas</string>
+    <string name="item_titulo">Título</string>
+    <string name="item_descripcion">Descripción</string>
+
+    <string name="txtActualizarNota">Actualizar Nota</string>
+</resources>
