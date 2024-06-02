@@ -4,10 +4,10 @@ Descripción:
 NotApp es una aplicación de Android desarrollada en Korlin usando Jetpack Compose. Esta es una aplicación sencilla de tipo CRUD que permite al usuario guardar sus notas con título y descripción. 
 
 Características:
-•	El usuario puede crear una nota 
-•	El usuario puede editar su nota
-•	El usuario puede eliminar su nota 
-•	Las funciones de esta aplicación son muy intuitivas y fáciles para el usuario
+1.	El usuario puede crear una nota 
+2.	El usuario puede editar su nota
+3.	El usuario puede eliminar su nota 
+4.	Las funciones de esta aplicación son muy intuitivas y fáciles para el usuario
 
 Estatus del proyecto:
 Este proyecto está completamente terminado y los usuarios pueden hacer uso de todas sus funciones.
